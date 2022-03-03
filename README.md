@@ -1,4 +1,5 @@
 # Cost Model
+[nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices](https://air.tsinghua.edu.cn/Uploads/UEditor/Files/20210709/6376145008525256118804429.pdf)
 [Empirical Analysis and Modeling of Compute Times of CNN Operations on AWS Cloud](https://ieeexplore.ieee.org/abstract/document/9251263)
 
 # Memory Optimizations

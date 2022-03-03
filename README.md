@@ -7,8 +7,10 @@
   - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://github.com/NVIDIA/Megatron-LM)
   - [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://github.com/alpa-projects)
 
-## Computation Cost Model
+## Memory Cost Model
 - [Estimating GPU Memory Consumption of Deep Learning Models](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/dnnmem.pdf) by Yanjie Gao et al., ESEC/FSE 2020
+
+## Computation Cost Model
 - [perf4sight: A toolflow to model CNN training performance on Edge GPUs](https://arxiv.org/pdf/2108.05580.pdf) by Aditya Rajagopal et al., ArXiv 2021
 - [nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices](https://air.tsinghua.edu.cn/Uploads/UEditor/Files/20210709/6376145008525256118804429.pdf) by Li Lyna Zhang et al., MobiSys 2021
 - [Empirical Analysis and Modeling of Compute Times of CNN Operations on AWS Cloud](https://ieeexplore.ieee.org/abstract/document/9251263) by Ubaid Ullah Hafeez et al., IISWC 2020

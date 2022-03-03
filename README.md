@@ -1,4 +1,5 @@
 # Cost Model
+[Estimating GPU Memory Consumption of Deep Learning Models](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/dnnmem.pdf)
 [perf4sight: A toolflow to model CNN training performance on Edge GPUs](https://arxiv.org/pdf/2108.05580.pdf)
 
 [nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices](https://air.tsinghua.edu.cn/Uploads/UEditor/Files/20210709/6376145008525256118804429.pdf)

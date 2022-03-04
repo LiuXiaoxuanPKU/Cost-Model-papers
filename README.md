@@ -15,6 +15,7 @@
 - [nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices](https://air.tsinghua.edu.cn/Uploads/UEditor/Files/20210709/6376145008525256118804429.pdf) by Li Lyna Zhang et al., MobiSys 2021
 - [Empirical Analysis and Modeling of Compute Times of CNN Operations on AWS Cloud](https://ieeexplore.ieee.org/abstract/document/9251263) by Ubaid Ullah Hafeez et al., IISWC 2020
 - [Paleo: A Performance Model for Deep Neural Networks](https://openreview.net/pdf?id=SyVVJ85lg) by Hang Qi et al., ICLR 2017
+- [Augur: Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices](https://arxiv.org/pdf/1709.09503.pdf) by Zongqing Lu et al., Proceedings of the 25th ACM international conference on Multimedia 2017
 
 
 ## Communication Cost Model

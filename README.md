@@ -13,7 +13,7 @@
 ## Computation Cost Model
 - [To bridge neural network design and real-world performance: A behaviour study for neural networks](https://proceedings.mlsys.org/paper/2021/file/02522a2b2726fb0a03bb19f2d8d9524d-Paper.pdf) by Xiaohu Tang et al., MLSys 2021
 - [perf4sight: A toolflow to model CNN training performance on Edge GPUs](https://arxiv.org/pdf/2108.05580.pdf) by Aditya Rajagopal et al., ArXiv 2021
-- [nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices](https://air.tsinghua.edu.cn/Uploads/UEditor/Files/20210709/6376145008525256118804429.pdf) by Li Lyna Zhang et al., MobiSys 2021
+- [nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices](https://dl.acm.org/doi/pdf/10.1145/3458864.3467882?casa_token=x0qNEhcP_wAAAAAA:uCTMD3yLynIaS7PwFvxzT65oxmrKz6EyOClSjYNCr-t036yn8VsqJcNjygQDkhR_04NeyZvRWS0e) by Li Lyna Zhang et al., MobiSys 2021
 - [Empirical Analysis and Modeling of Compute Times of CNN Operations on AWS Cloud](https://ieeexplore.ieee.org/abstract/document/9251263) by Ubaid Ullah Hafeez et al., IISWC 2020
 - [Paleo: A Performance Model for Deep Neural Networks](https://openreview.net/pdf?id=SyVVJ85lg) by Hang Qi et al., ICLR 2017
 - [Augur: Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices](https://arxiv.org/pdf/1709.09503.pdf) by Zongqing Lu et al., Proceedings of the 25th ACM international conference on Multimedia 2017

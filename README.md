@@ -19,6 +19,8 @@
   - [Empirical Analysis and Modeling of Compute Times of CNN Operations on AWS Cloud](https://ieeexplore.ieee.org/abstract/document/9251263) by Ubaid Ullah Hafeez et al., IISWC 2020
   - [Paleo: A Performance Model for Deep Neural Networks](https://openreview.net/pdf?id=SyVVJ85lg) by Hang Qi et al., ICLR 2017
   - [Augur: Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices](https://arxiv.org/pdf/1709.09503.pdf) by Zongqing Lu et al., Proceedings of the 25th ACM international conference on Multimedia 2017
+  - [Performance Modelling of Deep Learning on Intel Many Integrated Core Architectures](https://arxiv.org/pdf/1906.01992.pdf) by Andre Viebke et al., ArXiv 2019
+ 
 - Cost model for kernel compilation
   - [A learned Performance Model for Tensor Processing Units](https://arxiv.org/abs/2008.01040) by Samuel J. Kaufman et al., MLSys 2021
 

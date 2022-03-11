@@ -37,3 +37,4 @@
 
 ## Framework Introduction
 - [PyTorch Internal](http://blog.ezyang.com/2019/05/pytorch-internals/)
+- [Profiler Trace File](https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview)

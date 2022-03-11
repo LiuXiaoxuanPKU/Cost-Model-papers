@@ -22,8 +22,8 @@
 - Cost model for kernel compilation
   - [A learned Performance Model for Tensor Processing Units](https://arxiv.org/abs/2008.01040) by Samuel J. Kaufman et al., MLSys 2021
 
-
 ## Communication Cost Model
+- [Iteration Time Prediction for CNN in Multi-GPU Platform: Modeling and Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8713989) by Ziqian Pei et al., IEEE Access 2019
 
 ## Distributed Training
 - [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023.pdf) by Lianmin Zheng et al., ArXiv 2022

@@ -34,6 +34,8 @@
 - [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](https://cs.stanford.edu/~zhihao/papers/mlsys20.pdf) by Zhihao Jia et al., MLSys 2020
 - [A Distributed Multi-GPU System for Fast Graph Processing](http://www.vldb.org/pvldb/vol11/p297-jia.pdf) by Zhihao Jia et al., VLDB 2017
 
+## Device Placement
+- [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf) by Azalia Mirhoseini et al., ICML 2017
 
 ## Framework Introduction
 - [PyTorch Internal](http://blog.ezyang.com/2019/05/pytorch-internals/)

@@ -38,6 +38,10 @@
 ## Device Placement
 - [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf) by Azalia Mirhoseini et al., ICML 2017
 
+## Memory Optimization
+- [Data movement is all you need: A case study on optimizing transformers](https://proceedings.mlsys.org/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf) by Andrei Ivanov et al., MLSys 2021
+
 ## Framework Introduction
 - [PyTorch Internal](http://blog.ezyang.com/2019/05/pytorch-internals/)
 - [Profiler Trace File](https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview)
+- [Characterizing Deep Learning Training Workloads on Alibaba-PAI](https://arxiv.org/pdf/1910.05930.pdf) by Mengdi Wang et al., IISWC 2019

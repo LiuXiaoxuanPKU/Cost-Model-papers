@@ -39,7 +39,12 @@
 - [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf) by Azalia Mirhoseini et al., ICML 2017
 
 ## Memory Optimization
-- [Data movement is all you need: A case study on optimizing transformers](https://proceedings.mlsys.org/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf) by Andrei Ivanov et al., MLSys 2021
+- kernel fusion
+  - [Data movement is all you need: A case study on optimizing transformers](https://proceedings.mlsys.org/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf) by Andrei Ivanov et al., MLSys 2021
+- swapping + pipeline parallelism
+  - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., arXiv preprint, 2022.
+- swapping + gradient checkpointing
+  - [Capuchin: Tensor-based gpu memory management for deep learning](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?casa_token=Fa8ZayNjRk0AAAAA:8Bc7PzTe0SrH_edARFzh1vi7ll7CNzUDHsk4pHiOu8dwbmHExYFtYeQGKCKIqtPhS-tSXN1q_kn1KA) by Peng, Xuan, et al., 2020
 
 ## Framework Introduction
 - [PyTorch Internal](http://blog.ezyang.com/2019/05/pytorch-internals/)

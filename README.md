@@ -37,6 +37,7 @@
 
 ## Device Placement
 - [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf) by Azalia Mirhoseini et al., ICML 2017
+- [DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9460468&casa_token=2gAY08LpV_oAAAAA:CPc0zg6FF4hQ9AfoW2X5SpyxYWcQQpn0G_kxQ-5QXwCHYhD--lf5A4-ELiSlXrKcDTXbsI2sEKg) by Minjia et al., IEEE IPDPS 2021
 
 ## Memory Optimization
 - kernel fusion

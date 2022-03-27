@@ -50,6 +50,7 @@
   - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., arXiv 2022.
 - swapping + gradient checkpointing
   - [Capuchin: Tensor-based gpu memory management for deep learning](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?casa_token=Fa8ZayNjRk0AAAAA:8Bc7PzTe0SrH_edARFzh1vi7ll7CNzUDHsk4pHiOu8dwbmHExYFtYeQGKCKIqtPhS-tSXN1q_kn1KA) by Peng, Xuan, et al., ASPLOS 2020
+  - [Efficient Combination of Rematerialization and Offloading for Training DNNs](https://proceedings.neurips.cc/paper/2021/file/c8461bf13fca8a2b9912ab2eb1668e4b-Paper.pdf) by Olivier Beaumont et al., NeurIPS 2021
 
 ## Framework Introduction
 - [PyTorch Internal](http://blog.ezyang.com/2019/05/pytorch-internals/)

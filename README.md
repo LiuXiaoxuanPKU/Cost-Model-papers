@@ -44,6 +44,7 @@
   - [Data movement is all you need: A case study on optimizing transformers](https://proceedings.mlsys.org/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf) by Andrei Ivanov et al., MLSys 2021
 - compression
   - [Gist: Efficient Data Encoding for Deep Neural Network Training](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/fiddle-gist-isca18.pdf) by Animesh Jain et al., ISCA 2018 
+  - [Gradient Compression Supercharged High-Performance Data Parallel DNN Training](https://www.ruichuan.org/papers/hipress-sosp21.pdf) by Youhui Bai et al., SOSP 2021
 - swapping
   - [SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping](http://www.news.cs.nyu.edu/~jinyang/pub/swapadvisor-asplos20.pdf) by Huang et al., ASPLOS 2020
 - swapping + pipeline parallelism

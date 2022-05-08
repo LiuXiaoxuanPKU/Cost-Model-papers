@@ -47,6 +47,7 @@
   - [Gradient Compression Supercharged High-Performance Data Parallel DNN Training](https://www.ruichuan.org/papers/hipress-sosp21.pdf) by Youhui Bai et al., SOSP 2021
 - swapping
   - [SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping](http://www.news.cs.nyu.edu/~jinyang/pub/swapadvisor-asplos20.pdf) by Huang et al., ASPLOS 2020
+  - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., arXiv 2022.
 - swapping + pipeline parallelism
   - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., arXiv 2022.
 - swapping + gradient checkpointing

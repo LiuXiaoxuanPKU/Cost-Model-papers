@@ -48,9 +48,9 @@
 - swapping
   - [Optimal GPU-CPU Offloading Strategies for Deep Neural Network Training](https://hal.inria.fr/hal-02316266/document) by Olivier Beaumont et al., European Conference on Parallel Processing 2020
   - [SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping](http://www.news.cs.nyu.edu/~jinyang/pub/swapadvisor-asplos20.pdf) by Huang et al., ASPLOS 2020
-  - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., arXiv 2022.
+  - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., VLDB2022.
 - swapping + pipeline parallelism
-  - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., arXiv 2022.
+  - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., VLDB 2022.
 - swapping + gradient checkpointing
   - [Capuchin: Tensor-based gpu memory management for deep learning](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?casa_token=Fa8ZayNjRk0AAAAA:8Bc7PzTe0SrH_edARFzh1vi7ll7CNzUDHsk4pHiOu8dwbmHExYFtYeQGKCKIqtPhS-tSXN1q_kn1KA) by Peng, Xuan, et al., ASPLOS 2020
   - [Efficient Combination of Rematerialization and Offloading for Training DNNs](https://proceedings.neurips.cc/paper/2021/file/c8461bf13fca8a2b9912ab2eb1668e4b-Paper.pdf) by Olivier Beaumont et al., NeurIPS 2021

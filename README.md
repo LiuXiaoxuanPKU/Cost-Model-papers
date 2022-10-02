@@ -46,6 +46,7 @@
   - [Gist: Efficient Data Encoding for Deep Neural Network Training](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/fiddle-gist-isca18.pdf) by Animesh Jain et al., ISCA 2018 
   - [Gradient Compression Supercharged High-Performance Data Parallel DNN Training](https://www.ruichuan.org/papers/hipress-sosp21.pdf) by Youhui Bai et al., SOSP 2021
 - swapping
+  - [Optimal GPU-CPU Offloading Strategies for Deep Neural Network Training](https://hal.inria.fr/hal-02316266/document) by Olivier Beaumont et al., European Conference on Parallel Processing 2020
   - [SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping](http://www.news.cs.nyu.edu/~jinyang/pub/swapadvisor-asplos20.pdf) by Huang et al., ASPLOS 2020
   - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., arXiv 2022.
 - swapping + pipeline parallelism

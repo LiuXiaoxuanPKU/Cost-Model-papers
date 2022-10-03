@@ -40,6 +40,10 @@
 - [DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9460468&casa_token=2gAY08LpV_oAAAAA:CPc0zg6FF4hQ9AfoW2X5SpyxYWcQQpn0G_kxQ-5QXwCHYhD--lf5A4-ELiSlXrKcDTXbsI2sEKg) by Minjia et al., IEEE IPDPS 2021
 
 ## Memory Optimization
+- gradient checkpoint
+  - [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/pdf/1604.06174.pdf) by Tianqi Chen et al., arXiv 2016
+  - [Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization](https://arxiv.org/pdf/1910.02653.pdf) by Paras Jain et al., MLsys 2020
+  - [Dynamic Tensor Rematerialization](https://arxiv.org/pdf/2006.09616.pdf) by Marisa Kirisame et al., ICLR 2021
 - kernel fusion
   - [Data movement is all you need: A case study on optimizing transformers](https://proceedings.mlsys.org/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf) by Andrei Ivanov et al., MLSys 2021
 - compression

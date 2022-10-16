@@ -42,6 +42,7 @@
 ## Memory Optimization
 - gradient checkpoint
   - [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/pdf/1604.06174.pdf) by Tianqi Chen et al., arXiv 2016
+  - [Efficient Rematerialization for Deep Networks](https://proceedings.neurips.cc/paper/2019/file/ffe10334251de1dc98339d99ae4743ba-Paper.pdf) by Ravi Kumar et al., NeurIPS 2019
   - [Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization](https://arxiv.org/pdf/1910.02653.pdf) by Paras Jain et al., MLsys 2020
   - [Dynamic Tensor Rematerialization](https://arxiv.org/pdf/2006.09616.pdf) by Marisa Kirisame et al., ICLR 2021
 - gradient checkpoint + distributed training

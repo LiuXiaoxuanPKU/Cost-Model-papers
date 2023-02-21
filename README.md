@@ -49,18 +49,24 @@
   - [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/pdf/2205.05198.pdf) by Vijay Korthikanti et al., arXiv 2022
 - kernel fusion
   - [Data movement is all you need: A case study on optimizing transformers](https://proceedings.mlsys.org/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf) by Andrei Ivanov et al., MLSys 2021
-- compression
+- compression/quantization
   - [Gist: Efficient Data Encoding for Deep Neural Network Training](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/fiddle-gist-isca18.pdf) by Animesh Jain et al., ISCA 2018 
   - [Gradient Compression Supercharged High-Performance Data Parallel DNN Training](https://www.ruichuan.org/papers/hipress-sosp21.pdf) by Youhui Bai et al., SOSP 2021
+  - [GACT: Activation compressed training for generic network architectures](https://proceedings.mlr.press/v162/liu22v/liu22v.pdf) by Xiaoxuan Liu et al., ICML 2022
+  - [On the Utility of Gradient Compression in Distributed Training Systems](https://proceedings.mlsys.org/paper/2022/hash/cedebb6e872f539bef8c3f919874e9d7-Abstract.html) by Saurabh Agarwal et al., MLsys 2022
 - swapping
   - [Optimal GPU-CPU Offloading Strategies for Deep Neural Network Training](https://hal.inria.fr/hal-02316266/document) by Olivier Beaumont et al., European Conference on Parallel Processing 2020
   - [SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping](http://www.news.cs.nyu.edu/~jinyang/pub/swapadvisor-asplos20.pdf) by Huang et al., ASPLOS 2020
   - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., VLDB2022.
+  - [STRONGHOLD: Fast and Affordable Billion-Scale Deep Learning Model Training](https://github.com/strongh2/sc22-ae) by Xiaoyang Sun et al., SC2022
 - swapping + pipeline parallelism
   - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., VLDB 2022.
 - swapping + gradient checkpointing
   - [Capuchin: Tensor-based gpu memory management for deep learning](https://dl.acm.org/doi/pdf/10.1145/3373376.3378505?casa_token=Fa8ZayNjRk0AAAAA:8Bc7PzTe0SrH_edARFzh1vi7ll7CNzUDHsk4pHiOu8dwbmHExYFtYeQGKCKIqtPhS-tSXN1q_kn1KA) by Peng, Xuan, et al., ASPLOS 2020
   - [Efficient Combination of Rematerialization and Offloading for Training DNNs](https://proceedings.neurips.cc/paper/2021/file/c8461bf13fca8a2b9912ab2eb1668e4b-Paper.pdf) by Olivier Beaumont et al., NeurIPS 2021
+  - [POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging](https://proceedings.mlr.press/v162/patil22b.html) by Shishir G. Patil, ICML 2022
+ - Memory Allocator
+   - [OLLA: Optimizing the Lifetime and Location of Arrays to Reduce the Memory Usage of Neural Networks](https://arxiv.org/abs/2210.12924) by Benoit Steiner et al., Arxiv 2022
 
 ## Framework Introduction
 - [PyTorch Internal](http://blog.ezyang.com/2019/05/pytorch-internals/)

@@ -59,6 +59,7 @@
   - [SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping](http://www.news.cs.nyu.edu/~jinyang/pub/swapadvisor-asplos20.pdf) by Huang et al., ASPLOS 2020
   - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., VLDB2022.
   - [STRONGHOLD: Fast and Affordable Billion-Scale Deep Learning Model Training](https://github.com/strongh2/sc22-ae) by Xiaoyang Sun et al., SC2022
+  - [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) by Jie Ren et al., USENIX ATC'21
 - swapping + pipeline parallelism
   - [Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers](https://arxiv.org/pdf/2202.01306.pdf) by Youjie Li et al., VLDB 2022.
 - swapping + gradient checkpointing
@@ -67,7 +68,12 @@
   - [POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging](https://proceedings.mlr.press/v162/patil22b.html) by Shishir G. Patil, ICML 2022
  - Memory Allocator
    - [OLLA: Optimizing the Lifetime and Location of Arrays to Reduce the Memory Usage of Neural Networks](https://arxiv.org/abs/2210.12924) by Benoit Steiner et al., Arxiv 2022
-
+ - Efficient Optimizer
+   - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054) by Samyam Rajbhandari et al., SC'20
+   - [1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed](http://proceedings.mlr.press/v139/tang21a.html) by Hanlin Tang et al., ICML 2021
+ - Hardware related
+   - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) by Tri Dao et al., NeurIPS 2022
+  
 ## Framework Introduction
 - [PyTorch Internal](http://blog.ezyang.com/2019/05/pytorch-internals/)
 - [Profiler Trace File](https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview)

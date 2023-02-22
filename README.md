@@ -39,7 +39,7 @@
 - [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf) by Azalia Mirhoseini et al., ICML 2017
 - [DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9460468&casa_token=2gAY08LpV_oAAAAA:CPc0zg6FF4hQ9AfoW2X5SpyxYWcQQpn0G_kxQ-5QXwCHYhD--lf5A4-ELiSlXrKcDTXbsI2sEKg) by Minjia et al., IEEE IPDPS 2021
 
-## Memory Optimization
+## Memory Optimization for Training
 - gradient checkpoint
   - [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/pdf/1604.06174.pdf) by Tianqi Chen et al., arXiv 2016
   - [Efficient Rematerialization for Deep Networks](https://proceedings.neurips.cc/paper/2019/file/ffe10334251de1dc98339d99ae4743ba-Paper.pdf) by Ravi Kumar et al., NeurIPS 2019
